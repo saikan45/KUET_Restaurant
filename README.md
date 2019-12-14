@@ -1,3 +1,3 @@
 # KUET_Restaurant
 ## LOgin Page
-![Image](Capture3.PNG)
+![Image](images/Capture3.PNG)
