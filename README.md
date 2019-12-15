@@ -1,3 +1,16 @@
+# Procedure
+
+Download Xampp:https://www.apachefriends.org/download.html
+then Install it by watching this vedio 
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=N6ENnaRotmo)
+
+### Database Create
+Open Xampp control panel and Click Start action of Mysql and Apache, then both Module will be green color.
+Click Admin Option Of Mysql module.
+![Image](images/picture.PNG)
+
+
 # KUET_Restaurant
 ## LOgin Page
 ![Image](images/Capture2.PNG)
